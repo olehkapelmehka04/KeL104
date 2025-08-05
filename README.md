@@ -9,6 +9,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KeL104&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Если код выглядит как работающий — это ещё не значит, что он работает.](https://visitcount.itsvg.in/api?id=KeL104&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
